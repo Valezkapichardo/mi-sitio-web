@@ -1,0 +1,166 @@
+
+header {
+    height: 60px;
+    background: rgb(93, 138, 115);
+    padding: 5px;
+}
+body{
+    background: wheat;
+    margin: 0px;
+    padding: 0px;
+    }
+    
+header h1{
+    text-align: center;
+    margin-top: 10px;
+}
+h2{
+    text-align: center;
+    margin-top: 20px;
+}
+.bou button{
+    display:flex;
+    background-color: rgb(93, 138, 115);
+    width: 100px;
+    height: 30px;
+    margin-top: 100px;
+    margin-left: 100px;
+    
+    /*float: right;
+    margin-right: 80px;*/
+}
+.bou button a{
+    color: rgb(26, 3, 3);
+    font-size: 20px;
+}
+section {
+    display: flex;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 0px;
+    line-height: 50px;
+    font-size: 30px;
+
+} 
+   
+#pc{
+    font-size: 20px;
+}
+.fd button{
+    display:flex;
+    background-color: rgb(39, 6, 48);;
+    width: 100px;
+    height: 30px;
+    margin-top: 100px;
+    align-content: center;
+    margin-left: 100px;
+    
+    /*float: right;
+    margin-right: 80px;*/
+}
+.fd button a{
+    color: rgb(236, 229, 229);
+    font-size: 20px;
+}
+#fb{
+    background: rgb(39, 6, 48);
+    color: rgb(217, 232, 238);
+    padding: 10px;
+    margin-top: 0px;
+    height: 60px;
+    text-align: center;
+
+}
+#Ec{
+    background: white;
+    color: rgb(219, 217, 61);
+    padding: 10px;
+    margin-top: 0px;
+    height: 60px;
+    text-align: center;
+ 
+}
+.ep button{
+    display:flex;
+    background-color: white;;
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    align-content: center;
+    margin-left: 100px;
+    /*float: right;
+    margin-right: 80px;*/
+}
+.ep button a{
+    color: rgb(219, 217, 61);
+    font-size: 20px;
+}
+#dn{
+    background: black;
+    color: rgb(221, 135, 120);
+    padding: 10px;
+    margin-top: 0px;
+    height: 60px;
+    text-align: center; 
+}
+.Dm button{
+    display:flex;
+    background-color: black;
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    align-content: center;
+    margin-left: 100px;
+    /*float: right;
+    margin-right: 80px;*/
+}
+.Dm button a{
+    color:rgb(197, 82, 61);
+    font-size: 20px;
+} 
+#lr{
+    background: red;
+    color: black;
+    padding: 10px;
+    margin-top: 0px;
+    height: 60px;
+    text-align: center; 
+}
+.rr button{
+    display:flex;
+    background-color: red;
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    align-content: center;
+    margin-left: 100px;
+    /*float: right;
+    margin-right: 80px;*/
+}
+.rr button a{
+    color:black;
+    font-size: 20px;
+} 
+#ca{
+    background: rgb(189, 135, 55);
+    color: black;
+    padding: 10px;
+    margin-top: 0px;
+    height: 60px;
+    text-align: center; 
+}
+.cd button{
+    display:flex;
+    background-color: rgb(189, 135, 55);
+    width: 100px;
+    height: 30px;
+    margin-top: 50px;
+    align-content: center;
+    margin-left: 100px;
+    /*float: right;
+    margin-right: 80px;*/
+}
+.cd button a{
+    color:white;
+    font-size: 20px;
+} 
